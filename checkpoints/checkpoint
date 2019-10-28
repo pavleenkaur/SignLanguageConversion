@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/pkaur/tensorflow/SignLanguage/checkpoints/rnn.tflearn"
+all_model_checkpoint_paths: "/Users/pkaur/tensorflow/SignLanguage/checkpoints/rnn.tflearn"
